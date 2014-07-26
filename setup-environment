@@ -216,7 +216,7 @@ You can now run 'bitbake <target>'
 
 Common tekmagic targets are:
     core-image-minimal
-    core-image-wayland
+    core-image-weston
     x11-chromium-image
     wayland-chromium-image
     linux-sicomfsdmb
